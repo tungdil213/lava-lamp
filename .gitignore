@@ -23,5 +23,5 @@ dist-ssr
 *.sln
 *.sw?
 
-gh-pages.pub
-gh-pages
+id_rsa.pub
+id_rsa
